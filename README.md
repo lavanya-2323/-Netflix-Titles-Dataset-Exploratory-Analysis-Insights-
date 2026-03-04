@@ -1,2 +1,18 @@
-# -Netflix-Titles-Dataset-Exploratory-Analysis-Insights-
-This project explores the Netflix titles dataset to analyze trends in content production, genre popularity, and country-wise distribution. Data cleaning was performed by handling missing values, converting date columns, and parsing multi-label fields. 
+# Task 4 – Netflix Titles Dataset EDA
+
+## Objective
+To analyze Netflix content trends, genres, and country-wise distribution using data cleaning and visualization techniques.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Files Included
+- Netflix_EDA.ipynb
+- cleaned_netflix_data.csv
+
+## Author
+Lavanya Beeraka
